@@ -1,5 +1,5 @@
 # Block Breaker
-- Block Breaker is a Unity 2D game
+- Block Breaker is a Unity 2D developed game, where you try and continuously break blocks overhead with the provided ball.
 
 ## Game Pages and Functionalities:
 
